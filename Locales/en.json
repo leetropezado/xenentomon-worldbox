@@ -1,0 +1,19 @@
+{
+    "Default": "Default Configure Group",
+    "WhatToSay": "What to say on mod loaded",
+    "xenentomon_egg": "Xenentomon Egg",
+    "xenentomon_egg_description": "Dormant until prey comes close.",
+    "xenentomon_clinger": "Xenentomon Clinger",
+    "xenentomon_clinger_description": "Fast and fragile. Its bite plants an embryo.",
+    "xenentomon_burster": "Xenentomon Burster",
+    "xenentomon_burster_description": "Freshly emerged. Grows into a Drone.",
+    "xenentomon_drone": "Xenentomon Drone",
+    "xenentomon_drone_description": "The hive's hunter. Hostile to all other life.",
+    "xenentomon_matriarch": "Xenentomon Matriarch",
+    "xenentomon_matriarch_description": "The one queen of the world's hive.",
+    "xenentomon_implanted_late": "Infested",
+    "xenentomon_implanted_late_description": "Something is moving inside.",
+    "spawn_xenentomon_drone": "Xenentomon Drone",
+    "spawn_xenentomon_egg": "Xenentomon Egg",
+    "spawn_xenentomon_matriarch": "Xenentomon Matriarch"
+}

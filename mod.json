@@ -1,0 +1,8 @@
+{
+    "name": "Xenentomon",
+    "author": "leetropezado",
+    "version": "0.1.0",
+    "description": "Adds the Xenentomon, an alien insect hive with a full life cycle and a single world Matriarch.",
+    "RepoUrl": "https://github.com/leetropezado/xenentomon-worldbox",
+    "iconPath": "icon.png"
+}
